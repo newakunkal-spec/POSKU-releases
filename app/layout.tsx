@@ -1,7 +1,8 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 const font = Plus_Jakarta_Sans({ subsets: ["latin"], display: "swap" });
+export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#050b1d" };
 const base = process.env.SITE_URL || "http://localhost:3000";
 export const metadata: Metadata = {
   metadataBase: new URL(base),
