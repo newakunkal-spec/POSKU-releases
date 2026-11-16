@@ -1,7 +1,7 @@
 import siteJson from "@/data/site.json";
 import rel from "@/data/releases.json";
 export const site = siteJson as any;
-export const REPO = process.env.NEXT_PUBLIC_GITHUB_REPO || "newakunkal-spec/posku";
+export const REPO = process.env.NEXT_PUBLIC_GITHUB_REPO || "newakunkal-spec/POSKU-releases";
 // Nama file APK yang dilampirkan di GitHub Release (harus sama persis)
 export const APK_NAME = process.env.NEXT_PUBLIC_APK_NAME || "app-release.apk";
 // Selalu mengunduh APK dari rilis terbaru
