@@ -3,7 +3,7 @@
 Next.js 14 (static export) + TypeScript + Tailwind. APK disimpan di **GitHub Releases**, tanpa server.
 
 ## 1. Repo dan rilis pertama
-1. Buat repo publik di akun `newakunkal-spec` (nama bebas, default `posku`; ubah lewat `NEXT_PUBLIC_GITHUB_REPO`).
+1. Buat repo publik di akun `newakunkal-spec` (nama bebas, default `POSKU-releases`; ubah lewat `NEXT_PUBLIC_GITHUB_REPO`).
 2. Releases > Draft a new release > tag `v0.7.0`, tulis changelog (satu perubahan per baris, diawali `-`), lampirkan APK dengan nama file **tepat `app-release.apk`** (tanpa tanda kurung atau spasi; ubah lewat `NEXT_PUBLIC_APK_NAME` jika memakai nama lain), lalu Publish.
    Sebelum rilis pertama ada, tombol Download akan error 404.
 

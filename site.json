@@ -1,0 +1,116 @@
+{
+ "whatsapp": "6283895317991",
+ "whatsappDisplay": "0838-9531-7991",
+ "price": "Rp100.000",
+ "developer": "Haikal Rizky Aditya",
+ "developerUrl": "https://haikalrzay.biz.id",
+ "features": [
+  {
+   "t": "Kasir digital",
+   "d": "Keranjang, pindai barcode dengan kamera, diskon, pajak, dan pembayaran Tunai, QRIS, atau Transfer.",
+   "s": "ready"
+  },
+  {
+   "t": "Produk dan kategori",
+   "d": "Kelola produk, foto, SKU, barcode, harga, dan kategori. Impor dan ekspor lewat CSV.",
+   "s": "ready"
+  },
+  {
+   "t": "Manajemen stok",
+   "d": "Stok masuk, keluar, penyesuaian, batas minimum, daftar restock, dan riwayat perubahan stok.",
+   "s": "ready"
+  },
+  {
+   "t": "Riwayat transaksi",
+   "d": "Lihat detail transaksi, batalkan transaksi (stok kembali), dan unduh rekap per shift atau karyawan.",
+   "s": "ready"
+  },
+  {
+   "t": "Laporan penjualan",
+   "d": "Penjualan, laba, produk terlaris, dan grafik 7 hari terakhir.",
+   "s": "ready"
+  },
+  {
+   "t": "Pencatatan pengeluaran",
+   "d": "Catat sewa, listrik, gaji, atau transport dan masukkan ke laporan.",
+   "s": "ready"
+  },
+  {
+   "t": "Karyawan dan PIN",
+   "d": "Peran Pemilik dan Kasir dengan login PIN 4 sampai 6 angka.",
+   "s": "ready"
+  },
+  {
+   "t": "Cetak struk Bluetooth",
+   "d": "Printer thermal Bluetooth 58 mm dan 80 mm, tes cetak, dan cetak otomatis setelah bayar.",
+   "s": "ready"
+  },
+  {
+   "t": "Backup dan restore",
+   "d": "Cadangkan dan pulihkan data ke file, serta ekspor penjualan ke CSV.",
+   "s": "ready"
+  },
+  {
+   "t": "QRIS dan rekening toko",
+   "d": "Unggah QRIS toko dan simpan rekening bank atau dompet digital untuk transfer.",
+   "s": "ready"
+  },
+  {
+   "t": "Multi-bisnis",
+   "d": "Mengelola beberapa usaha dalam satu aplikasi. Saat ini aplikasi mendukung satu profil usaha.",
+   "s": "soon"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Apa itu POSKU?",
+   "a": "POSKU adalah aplikasi kasir Android untuk mencatat penjualan, produk, stok, pengeluaran, dan laporan usaha."
+  },
+  {
+   "q": "Siapa yang cocok memakai POSKU?",
+   "a": "UMKM seperti toko kelontong, toko pakaian, kafe atau resto, warung makan, dan retail kecil."
+  },
+  {
+   "q": "Berapa harga lisensi POSKU?",
+   "a": "Rp100.000 untuk Lifetime License, dibayar sekali."
+  },
+  {
+   "q": "Apakah POSKU bisa dipakai tanpa internet?",
+   "a": "Ya. Data tersimpan di perangkat dan verifikasi lisensi dilakukan di perangkat tanpa internet."
+  },
+  {
+   "q": "Bagaimana cara mengunduh POSKU?",
+   "a": "Tekan tombol Download POSKU. File POSKU.apk langsung terunduh. Butuh Android 12 atau lebih baru."
+  },
+  {
+   "q": "Bagaimana cara mengaktifkan lisensi?",
+   "a": "Pesan lisensi dengan Gmail Anda dan kode perangkat dari aplikasi. Setelah pembayaran diverifikasi admin, Anda menerima key. Tempel key di layar Aktivasi POSKU."
+  },
+  {
+   "q": "Bagaimana jika mengganti HP?",
+   "a": "Lisensi berlaku untuk satu perangkat dan satu Gmail. Hubungi admin lewat WhatsApp untuk meminta key baru."
+  },
+  {
+   "q": "Bagaimana cara mendapatkan update?",
+   "a": "Unduh POSKU.apk terbaru dari situs ini lalu pasang di atas aplikasi lama. Data tetap ada."
+  },
+  {
+   "q": "Apakah POSKU mendukung printer thermal?",
+   "a": "Ya, printer thermal Bluetooth ukuran 58 mm dan 80 mm. Printer harus dipasangkan dulu di pengaturan Bluetooth HP."
+  }
+ ],
+ "hero": {
+  "title": "Kelola Bisnis Lebih Mudah dengan POSKU.",
+  "desc": "Solusi kasir digital modern untuk membantu mengelola transaksi, produk, stok, dan operasional bisnis dalam satu aplikasi."
+ },
+ "advantagesTitle": "Lebih dari Sekadar Aplikasi Kasir.",
+ "advantages": [
+  "Pengelolaan bisnis dalam satu aplikasi",
+  "Antarmuka modern dan mudah digunakan",
+  "Pencatatan transaksi lebih terorganisir",
+  "Data dan verifikasi lisensi tersimpan di perangkat, jadi tetap jalan tanpa internet",
+  "Cocok untuk toko kelontong, toko pakaian, kafe, warung, dan retail",
+  "Lisensi sekali bayar tanpa langganan bulanan"
+ ],
+ "minAndroid": "12 (API 31)"
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "version": "0.7.0",
+  "versionCode": 1,
+  "date": "2026-11-15",
+  "size": 72755654,
+  "sha256": "9d84f8397b67c1656c985a963ea8d2a703043e2c1b310f5b851c9fde1c38cfe7",
+  "minAndroid": "12 (API 31)",
+  "changelog": [
+   "Rilis awal yang tersedia untuk diunduh."
+  ],
+  "file": "POSKU-0.7.0.apk",
+  "latest": true,
+  "downloads": 0,
+  "packageName": "id.posku.app",
+  "certSha256": "3b65e8eb9f67730f13a6a536d5133c31f3c9d4598a818dd9020b5677c309fe64"
+ }
+]

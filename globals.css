@@ -1,0 +1,15 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+:root { color-scheme: dark; }
+html { scroll-behavior: smooth; scroll-padding-top: 5rem; }
+body { background: radial-gradient(900px 500px at 80% -5%, rgba(47,107,255,.28), transparent 60%), radial-gradient(700px 400px at 0% 30%, rgba(34,211,238,.10), transparent 60%), #050b1d; color: #e6ecff; }
+.glass { background: rgba(255,255,255,.045); border: 1px solid rgba(255,255,255,.09); backdrop-filter: blur(14px); }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:.5rem; border-radius:.9rem; padding:.8rem 1.3rem; font-weight:700; transition: transform .15s, box-shadow .2s; }
+.btn:active { transform: scale(.97); }
+.btn-primary { background: linear-gradient(135deg,#2f6bff,#22d3ee); color:#04122e; box-shadow: 0 0 28px rgba(47,107,255,.45); }
+.btn-primary:hover { box-shadow: 0 0 38px rgba(34,211,238,.55); }
+.btn-ghost { border:1px solid rgba(255,255,255,.18); }
+.btn-ghost:hover { background: rgba(255,255,255,.07); }
+:focus-visible { outline: 2px solid #22d3ee; outline-offset: 3px; }
+@keyframes feed { from { transform: translateY(-100%); } to { transform: translateY(0); } }
+.receipt { animation: feed 1.6s .4s cubic-bezier(.2,.8,.2,1) both; }
+@media (prefers-reduced-motion: reduce) { .receipt { animation: none; } html { scroll-behavior: auto; } }
